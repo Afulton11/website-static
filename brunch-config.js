@@ -14,14 +14,15 @@ exports.files = {
 
 exports.plugins = {
   babel: {
-    presets: ['latest']
+    presets: ['latest'],
   },
   sass: {
+    allowCache: true,
     options: {
       includePaths: ['./node_modules/bootstrap/scss/'],
       precision: 8
     }
-  }
+  },
 };
 
 exports.npm = {
