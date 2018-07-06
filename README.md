@@ -1,4 +1,4 @@
-# This repository all the styling and html used for my website
+## This repository contains all the styling and html used for my website
 I started with the initial repository ![here](https://github.com/programmiri/brunch-setup-bootstrap4).
 
 # Installation
